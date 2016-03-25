@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- Single menu item
+         Set id, icon and Title for each menu item
+    -->
+
+    <!--<item android:id="@+id/gps_to_da"-->
+        <!--android:icon="@drawable/location"-->
+        <!--android:title="location" />-->
+
+    <!--<item android:id="@+id/marker_to_da"-->
+        <!--android:icon="@drawable/marker"-->
+        <!--android:title="marker" />-->
+    <!--<item-->
+        <!--android:id="@+id/da_to_marker"-->
+        <!--android:icon="@drawable/worldwide_location"-->
+        <!--android:title="digital addr">-->
+    <!--</item>-->
+
+    <item
+        android:id="@+id/search_da"
+        android:icon="@drawable/ic_my_location_white_24dp"
+        android:title="Search by DA"
+        app:showAsAction="ifRoom">
+    </item>
+
+    <item
+        android:id="@+id/search_da2"
+        android:title="Search by GPS"
+        android:icon="@drawable/ic_place_white_24dp"
+        app:showAsAction="ifRoom"
+
+        >
+    </item>
+
+    <item
+        android:id="@+id/search_da3"
+        android:title="Search by Neighbourhood"
+        android:icon="@drawable/ic_near_me_white_24dp"
+        app:showAsAction="ifRoom">
+    </item>
+
+    <item
+        android:id="@+id/search_postal"
+        android:title="Search by Postal Address"
+        android:icon="@drawable/ic_local_post_office_white_24dp"
+        app:showAsAction="ifRoom">
+    </item>
+
+    <item
+        android:id="@+id/register_da"
+        android:title="Register DA"
+        android:icon="@drawable/ic_add_location_white_24dp"
+        app:showAsAction="ifRoom"
+        >
+    </item>
+
+</menu>

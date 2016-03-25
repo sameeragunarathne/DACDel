@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DACNaviApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="types">
+        <item>University</item>
+        <item>School</item>
+        <item>Building</item>
+        <item>Ground</item>
+        <item>Hostel</item>
+        <item>Gym</item>
+    </string-array>
+
+
+
+    <string name="attribute_name">Name</string>
+    <string name="attribute_street1">Street line 1</string>
+    <string name="attribute_street2">Street line 2</string>
+    <string name="attribute_town">Town</string>
+    <string name="attribute_lecturer_count">Number of lecturers</string>
+    <string name="attribute_student_count">Number of students</string>
+    <string name="attribute_faculties">Faculties</string>
+    <string name="attribute_age">Age</string>
+    <string name="attribute_no_of_levels">no of levels</string>
+    <string name="attribute_GND">GND</string>
+    <string name="attribute_province">province</string>
+    <string name="attribute_district">district</string>
+    <string name="attribute_no_of_teachers">no of teachers</string>
+    <string name="attribute_category_of_school">category of school</string>
+    <string name="attribute_date_of_establishment">date of establishment</string>
+    <string name="attribute_sport_types">sport types</string>
+    <string name="attribute_covered_area">covered area</string>
+    <string name="attribute_no_of_entrances">no of entrances</string>
+    <string name="attribute_no_of_rooms">no of rooms</string>
+    <string name="attribute_no_of_bathrooms">no of bathrooms</string>
+    <string name="attribute_capacity">capacity</string>
+    <string name="attribute_nearest_bridge">nearest bridge</string>
+    <string name="attribute_max_depth">max depth</string>
+    <string name="attribute_min_depth">min depth</string>
+    <string name="attribute_avg_depth">avg depth</string>
+    <string name="attribute_bath_places">bath places</string>
+    <string name="attribute_distance_to_next_station">distance to next station</string>
+    <string name="attribute_fuel_types">fuel types</string>
+    <string name="attribute_no_of_tanks">no of tanks</string>
+</resources>
